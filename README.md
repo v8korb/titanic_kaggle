@@ -2,11 +2,11 @@
 
 O desafio constitui-se em propor um modelo preditivo que seja capaz de avaliar a probabilidade dos tripulantes de acordo com os dados propostos.
 São disponibilizados dois datasets, um de treinamento e outro de testes (.csv) 
-'''
-train ​ ⇒ 891 passageiros. Revelado se sobreviveram ou não.
-test ​ ⇒ 418 passageiros. Não revelado se sobreviveram.
-10 ​ features ​ (4 ​ strings ​ , 2 ​ floats ​ , 3 ​ integers ​ , 1 ​ binary ) ​
-'''
+```
+train: 891 passageiros. Revelado se sobreviveram ou não.
+test: 418 passageiros. Não revelado se sobreviveram.
+features: 10 (4 string, 2 float, 3 integers, 1 binary)
+```
 
 ## Pré-processamento
 - Avaliação das features: separação em categóricas e não categóricas, tipos e descrições
