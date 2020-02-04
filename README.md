@@ -11,7 +11,7 @@ features: 10 (4 string, 2 float, 3 integers, 1 binary)
 ## Pré-processamento
 - Avaliação das features: separação em categóricas e não categóricas, tipos e descrições
 - Remoção de features consideradas de pouco valor​ (Name,Ticket,Fare,Cabin,PassengerId)
-- Preenchimento de valores nulos: preenchimento de valores nulos da coluna idade com a mediana, preenchimento
+- Preenchimento de valores nulos: preenchimento de valores nulos da coluna idade com a mediana
 - Preenchimento de valores não nulos com a moda na feature EMBARKED
 - Histogramas de relação entre a sobrevivencia e as features.
  
